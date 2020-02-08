@@ -1,0 +1,26 @@
+_repo: The-Man-Who-Flew_61271
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cunningham, Charles D.
+    gutenberg_agent_id: '51334'
+    url: http://www.gutenberg.org/2009/agents/51334
+description: ''
+gutenberg_issued: '2020-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telepathy -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Parapsychology -- Fiction'
+- GITenberg
+title: The Man Who Flew
+url: http://www.gutenberg.org/ebooks/61271
